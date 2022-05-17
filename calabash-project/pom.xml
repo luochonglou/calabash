@@ -14,6 +14,7 @@
 
     <modules>
         <module>calabash-boot-starter-data-redis</module>
+        <module>calabash-boot-starter-data-mysql</module>
     </modules>
 
 </project>
